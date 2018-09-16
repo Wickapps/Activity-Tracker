@@ -1,0 +1,15 @@
+@relation subject101-cleaned-weka.filters.unsupervised.attribute.NumericToNominal-Rfirst
+
+@attribute activityID {1,2,3,4,5,6,7,12,13,16,17,24}
+@attribute accelX numeric
+@attribute accelY numeric
+@attribute accelZ numeric
+@attribute gyroX numeric
+@attribute gyroY numeric
+@attribute gyroZ numeric
+@attribute magnetX numeric
+@attribute magnetY numeric
+@attribute magnetZ numeric
+
+@data
+1,2.30106,7.25857,6.09259,-0.069961,-0.018328,0.004582,9.15626,-67.1825,-20.0857
